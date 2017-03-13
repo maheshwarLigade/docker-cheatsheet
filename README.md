@@ -68,18 +68,18 @@ There are many other options of docker commands that will help you to.
   
   
 ####Management Commands:
-  ``` checkpoint  Manage checkpoints
-  container   Manage containers
-  image       Manage images
-  network     Manage networks
-  node        Manage Swarm nodes
-  plugin      Manage plugins
-  secret      Manage Docker secrets
-  service     Manage services
-  stack       Manage Docker stacks
-  swarm       Manage Swarm
-  system      Manage Docker
-  volume      Manage volumes ```
+  >checkpoint  Manage checkpoints
+  >container   Manage containers
+  >image       Manage images
+  >network     Manage networks
+  >node        Manage Swarm nodes
+  >plugin      Manage plugins
+  >secret      Manage Docker secrets
+  >service     Manage services
+  >stack       Manage Docker stacks
+  >swarm       Manage Swarm
+  >system      Manage Docker
+  >volume      Manage volumes ```
 
 ####Commands:
  ``` <p>attach      Attach to a running container
