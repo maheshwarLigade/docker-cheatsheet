@@ -35,7 +35,8 @@ docker start <name> = will restart a closed / exited instance of the image
 
 docker exec -it <name> <command> = run a command within a running container without changing the state of the running container
 
-docker stop <name> = stop a running container by using the name```
+docker stop <name> = stop a running container by using the name
+```
 
 
 
